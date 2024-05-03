@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "timepath-test-task-response-e",
+  "editForm": "timepath-test-task-response-e",
+  "external": false,
+  "caption": "Response",
+  "name": "TimepathTestTaskResponseL",
+  "className": "ResponseL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "timepath-test-task-response",
+      "modelProjection": "ResponseL"
+    }
+  ]
+}

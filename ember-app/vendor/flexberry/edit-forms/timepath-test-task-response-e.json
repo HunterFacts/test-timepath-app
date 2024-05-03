@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Response",
+  "name": "TimepathTestTaskResponseE",
+  "className": "ResponseE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "timepath-test-task-response",
+      "modelProjection": "ResponseE"
+    }
+  ]
+}

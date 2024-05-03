@@ -1,0 +1,11 @@
+{
+  "directory": "bower_components",
+  "analytics": false,
+  "proxy":"",
+  "https-proxy": "",
+  "registry": {
+    "search": [
+      "https://registry.bower.io"
+    ]
+  }
+}
